@@ -62,8 +62,6 @@ End Algorithm
 * **Key feature:** Fully image-processing-based (no machine learning required)
 * **Outputs:** Visual GUI with Pass/Fail display, counters, and system logging
 
-Here is a clear and professional **instructions section** you can include directly in your `README.md` file to guide users on how to run your **blurry text fault detection system**:
-
 ## 🚀 How to Run the Project
 
 This project provides a system to detect **faults in date code printing** on cans using image processing techniques. You can run either the demo versions for specific fault types or launch the full UI-based application.
